@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: 1234567898
